@@ -1,2 +1,2 @@
 # chaallange2
-Coders_of_XDAOT challange #2 converting mockup into markup
+Coders_of_XDAOT challenge #2 converting mockup into markup
