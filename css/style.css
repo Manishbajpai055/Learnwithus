@@ -108,11 +108,12 @@ ul {
 .bld {
   font-weight: bold;
 }
-
+/* changed intro width to 280px and added padding 25px */
 .intro {
   position: relative;
   color: black;
-  width: 350px;
+  width: 280px;
+  padding-left: 25px;
   font-size: 14px;
 }
 
